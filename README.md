@@ -1,5 +1,4 @@
 # Projeto Percepção o sobre o uso seguro da Internet
-Projeto: Percepção sobre o uso seguro da Internet
 
 # Objetivo
 Empregamos uma abordagem diversificada na coleta e processamento de dados, combinando diferentes métodos e ferramentas para garantir precisão e eficiência. Para a pesquisa de referências e informações relevantes, utilizamos tanto o Google convencional quanto o Google Acadêmico, permitindo um levantamento abrangente e criterioso das fontes.
