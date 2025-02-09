@@ -14,5 +14,5 @@ Um dos principais desafios do nosso projeto foi a obtenção de dados válidos. 
 ![image](https://github.com/user-attachments/assets/9e5adade-66b7-4e1e-8f81-ebf09a67b1a3)
 
 
-A seguir projeto no Google Colab: https://colab.research.google.com/drive/1v17_J3USR0-1FnKEwdVC9lkuppD-eH38?usp=sharing
+A seguir projeto no Google Colab: 
 
