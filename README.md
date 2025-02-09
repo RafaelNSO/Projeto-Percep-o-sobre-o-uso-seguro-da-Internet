@@ -1,12 +1,12 @@
-# Projeto-Percep-o-sobre-o-uso-seguro-da-Internet
+# Projeto Percep o sobre o uso seguro da Internet
 Projeto: Percepção sobre o uso seguro da Internet
 
+# Objetivo:
 Empregamos uma abordagem diversificada na coleta e processamento de dados, combinando diferentes métodos e ferramentas para garantir precisão e eficiência. Para a pesquisa de referências e informações relevantes, utilizamos tanto o Google convencional quanto o Google Acadêmico, permitindo um levantamento abrangente e criterioso das fontes.
 
 A etapa de processamento e análise de dados foi conduzida com a linguagem de programação Python dentro do ambiente Google Colab, proporcionando uma infraestrutura flexível e acessível para execução dos scripts. Contamos com o suporte do ChatGPT, especialmente para a otimização, estruturação e formatação dos dados, garantindo maior eficiência no tratamento das informações. Além disso, utilizamos a biblioteca Pandas, amplamente reconhecida no campo da ciência de dados, para manipulação, limpeza e organização dos datasets, assegurando uma abordagem estruturada e confiável na análise.
 
 Um dos principais desafios do nosso projeto foi a obtenção de dados válidos. Embora a internet ofereça uma vasta quantidade de informações, nem todas são autenticas ou se encontram atualizadas.
-
 
 
 # Gráfico
