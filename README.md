@@ -14,5 +14,5 @@ Um dos principais desafios do nosso projeto foi a obtenção de dados válidos. 
 ![image](https://github.com/user-attachments/assets/9e5adade-66b7-4e1e-8f81-ebf09a67b1a3)
 
 
-A seguir projeto no Google Colab: https://colab.research.google.com/drive/1v17_J3USR0-1FnKEwdVC9lkuppD-eH38?usp=sharing 
+Utilizamos o artigo "Classificação Indicativa e Novas Mídias" (https://www.gov.br/mj/pt-br/assuntos/seus-direitos/classificacao-1/volume_3.pdf#page=100) Como referência para os dados coletados do projeto
 
