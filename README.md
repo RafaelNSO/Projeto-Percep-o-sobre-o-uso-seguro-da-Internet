@@ -1,11 +1,9 @@
 # Projeto Percepção o sobre o uso seguro da Internet
 
+![Leonardo_Phoenix_10_Create_a_modern_and_conceptual_illustratio_3](https://github.com/user-attachments/assets/32b8eb7f-6fa7-43ca-8417-9fed5087a346)
+
 # Objetivo
-Empregamos uma abordagem diversificada na coleta e processamento de dados, combinando diferentes métodos e ferramentas para garantir precisão e eficiência. Para a pesquisa de referências e informações relevantes, utilizamos tanto o Google convencional quanto o Google Acadêmico, permitindo um levantamento abrangente e criterioso das fontes.
-
-A etapa de processamento e análise de dados foi conduzida com a linguagem de programação Python dentro do ambiente Google Colab, proporcionando uma infraestrutura flexível e acessível para execução dos scripts. Contamos com o suporte do ChatGPT, especialmente para a otimização, estruturação e formatação dos dados, garantindo maior eficiência no tratamento das informações. Além disso, utilizamos a biblioteca Pandas, amplamente reconhecida no campo da ciência de dados, para manipulação, limpeza e organização dos datasets, assegurando uma abordagem estruturada e confiável na análise.
-
-Um dos principais desafios do nosso projeto foi a obtenção de dados válidos. Embora a internet ofereça uma vasta quantidade de informações, nem todas são autenticas ou se encontram atualizadas.
+O Projeto Percepção sobre o Uso Seguro da Internet tem como objetivo analisar e compreender o nível de conhecimento e conscientização sobre segurança digital entre diferentes públicos, incluindo crianças, adolescentes, pais e responsáveis. Através da coleta, processamento e análise de dados sobre cibersegurança, o projeto busca identificar padrões, desafios e boas práticas no uso seguro da Internet.
 
 
 # Gráfico
