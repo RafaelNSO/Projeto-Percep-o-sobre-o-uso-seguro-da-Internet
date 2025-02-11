@@ -14,3 +14,5 @@ O Projeto Percepção sobre o Uso Seguro da Internet tem como objetivo analisar 
 
 Utilizamos o artigo ["Classificação Indicativa e Novas Mídias"](https://www.gov.br/mj/pt-br/assuntos/seus-direitos/classificacao-1/volume_3.pdf#page=100) Como referência para os dados coletados do projeto.
 
+Link do Documento: https://docs.google.com/document/d/1ZSWsodQFhLQIJdot3FN3ciY8gJlShOIJEDKrVMj81yM/edit?usp=sharing
+
